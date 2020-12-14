@@ -1,4 +1,4 @@
-#Paul Sanders
+# @saulpanders
 #8/9/18
 #TCP chat server program, to be used with chat_client.py
 #NOTE: this is a linux only program

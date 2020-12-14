@@ -1,4 +1,4 @@
-#Paul Sanders
+# @saulpanders
 #6/26/18
 # sniffer_with_icmp.py : sniffing tool that decodes the incoming packets (more than sniffer.py)
 #TO DO: FIXED ICMP header size 

@@ -1,4 +1,4 @@
-#Paul Sanders
+# @saulpanders
 #6/26/18
 # sniffer.py : a simple UDP packet sniffer (single packet)
 

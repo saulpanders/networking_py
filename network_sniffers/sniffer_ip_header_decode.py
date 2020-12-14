@@ -1,4 +1,4 @@
-#Paul Sanders
+# @saulpanders
 #6/26/18
 # sniffer_ip_header_decode.py : sniffing tool that decodes the incoming packets (more than sniffer.py)
 #TO DO: program works on windows (tested on win7 vm) but ICMP breaks on linux (header sizes not correct)
